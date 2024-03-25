@@ -10,7 +10,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Alongside my technical work, I’m also proficient in creative software like Photoshop, Lightroom, and Premiere. This artistic side fuels my innovative approach to technology, allowing me to design not just functional but visually compelling solutions.
+⚡ Fun fact: Alongside my technical work, I’m also proficient in creative software like DaVinci Resolve, Lightroom, and Rhinos. This artistic side fuels my innovative approach to technology, allowing me to design not just functional but visually compelling solutions.
 
 <!---
 zqiming-3690/zqiming-3690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
